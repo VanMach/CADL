@@ -5,6 +5,6 @@ https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tens
 Hope to keep up with the lectures over the course.
 Lecture2_8 notebook still has some unsolved problems/errors 
 
-Tested with docker image on Win7(64x)
+Tested with docker image on Win7(64x).
 Use at your own risk.
 
